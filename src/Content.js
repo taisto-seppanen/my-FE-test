@@ -26,11 +26,15 @@ function Content() {
     const [mySearch, setSearch] = useState("")
     const [mySubj, setSubj] = useState("")
     const [myDate, setDate] = useState("")
+    const dateArr = [];
+    const subjArr = [];
     
+
+
       return (
         <>
         <Container>
-        <Grid container direction="row" justify="space-between" alignItems="stretch" spacing={1}>
+        <Grid container direction="row" justify="space-between" alignItems="stretch" spacing={3}>
 
             <Grid item>
 
@@ -47,18 +51,27 @@ function Content() {
                 <select className={Classes.formControl} type="date" placeholder="Order by date" onChange = { event => 
                 { setDate(event.target.value) } } defaultValue="">
                 <option value="">Order by date</option>
-                { JSONDATA.map((val) => { return <option value={ val.date  }> { val.date } </option>})}
+                { JSONDATA.map((val) => {
+                  let testVal = val.date;    
+                  if (!dateArr.includes(testVal)) {
+ 
+                    dateArr.push(testVal);
+                    return <option value={ testVal  }> { testVal } </option>}})}             
                 </select>
                 </Grid>
 
-            <Grid item>
 
             {/* Селектор выбора фильтра по значению Subj */}
+            <Grid item>
 
                 <select className={Classes.formControl} type="text" placeholder="Filter by category" onChange = { event => 
                 { setSubj(event.target.value) } } defaultValue="">
                 <option value="">Filter by category</option>
-                { JSONDATA.map((val) => { return <option value={ val.subj  }> { val.subj } </option>})}
+                { JSONDATA.map((val) => {
+                  let testVal = val.subj;    
+                  if (!subjArr.includes(testVal)) {
+                    subjArr.push(testVal);
+                   return <option value={ testVal  }> { testVal } </option>}})}
                 </select>
                 </Grid>
             </Grid>
@@ -90,21 +103,21 @@ function Content() {
                 
                 
 
-            <Grid item item xs={12}>
-                <Paper elevation={3}>
-                  
-                <table>
-
-                <tr>
-
-                  <td><Box><img width={150} height={150} src={ val.pic } alt="pic" /></Box></td>
-                  <td><Box>{val.text}</Box></td>
-
-                </tr>
-                </table>
-                </Paper>
-              </Grid>
-                }</Box>
+              <Grid item item xs={12}>
+                  <Paper elevation={3}>
+                    
+                  <table>
+  
+                  <tr>
+  
+                    <td><Box><img width={150} height={150} src={ val.pic } alt="pic" /></Box></td>
+                    <td><Box>{val.text}</Box></td>
+  
+                  </tr>
+                  </table>
+                  </Paper>
+                </Grid>
+                  }</Box>
             })}
         </Grid>
       </Container>
