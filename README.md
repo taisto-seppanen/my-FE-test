@@ -1,5 +1,7 @@
 ### Первая часть тестового задания 
 
+[Посмотреть можно тут](https://taisto-seppanen.github.io/my-FE-test/build/index.html)
+
 #### В проекте используется:
 - React;
 - material-ui;
