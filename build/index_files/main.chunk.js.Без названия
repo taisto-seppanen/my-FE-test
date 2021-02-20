@@ -47,7 +47,7 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 __webpack_require__.$Refresh$.setup(module.i);
 
-var _jsxFileName = "C:\\Users\\seppa\\Desktop\\1\\src\\App.js";
+var _jsxFileName = "C:\\Users\\seppa\\FE test\\src\\App.js";
 
 
 
@@ -71,40 +71,40 @@ function App() {
         children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Box"], {
           children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_MyCarousel__WEBPACK_IMPORTED_MODULE_5__["default"], {}, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 15,
-            columnNumber: 11
+            lineNumber: 21,
+            columnNumber: 13
           }, this)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 14,
-          columnNumber: 9
+          lineNumber: 20,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 13,
-        columnNumber: 7
+        lineNumber: 19,
+        columnNumber: 9
       }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Grid"], {
         item: true,
         children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Box"], {
           children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Content__WEBPACK_IMPORTED_MODULE_6__["default"], {}, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 21,
-            columnNumber: 11
+            lineNumber: 27,
+            columnNumber: 13
           }, this)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 20,
-          columnNumber: 9
+          lineNumber: 26,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 19,
-        columnNumber: 7
+        lineNumber: 25,
+        columnNumber: 9
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
       lineNumber: 12,
-      columnNumber: 1
+      columnNumber: 7
     }, this)
   }, void 0, false);
 }
@@ -219,7 +219,7 @@ var _someData_json__WEBPACK_IMPORTED_MODULE_6___namespace = /*#__PURE__*/__webpa
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 __webpack_require__.$Refresh$.setup(module.i);
 
-var _jsxFileName = "C:\\Users\\seppa\\Desktop\\1\\src\\Content.js",
+var _jsxFileName = "C:\\Users\\seppa\\FE test\\src\\Content.js",
     _s = __webpack_require__.$Refresh$.signature();
 
 
@@ -272,13 +272,13 @@ function Content() {
             defaultValue: ""
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 43,
-            columnNumber: 17
+            lineNumber: 45,
+            columnNumber: 13
           }, this)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 39,
-          columnNumber: 13
+          lineNumber: 42,
+          columnNumber: 11
         }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Grid"], {
           item: true,
           children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("select", {
@@ -294,8 +294,8 @@ function Content() {
               children: "Order by date"
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 53,
-              columnNumber: 17
+              lineNumber: 68,
+              columnNumber: 15
             }, this), _someData_json__WEBPACK_IMPORTED_MODULE_6__.map(val => {
               let testVal = val.date;
 
@@ -306,20 +306,20 @@ function Content() {
                   children: [" ", testVal, " "]
                 }, void 0, true, {
                   fileName: _jsxFileName,
-                  lineNumber: 59,
-                  columnNumber: 28
+                  lineNumber: 73,
+                  columnNumber: 26
                 }, this);
               }
             })]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 51,
-            columnNumber: 17
+            lineNumber: 59,
+            columnNumber: 13
           }, this)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 47,
-          columnNumber: 13
+          lineNumber: 56,
+          columnNumber: 11
         }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Grid"], {
           item: true,
           children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("select", {
@@ -335,8 +335,8 @@ function Content() {
               children: "Filter by category"
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 69,
-              columnNumber: 17
+              lineNumber: 90,
+              columnNumber: 15
             }, this), _someData_json__WEBPACK_IMPORTED_MODULE_6__.map(val => {
               let testVal = val.subj;
 
@@ -347,24 +347,24 @@ function Content() {
                   children: [" ", testVal, " "]
                 }, void 0, true, {
                   fileName: _jsxFileName,
-                  lineNumber: 74,
-                  columnNumber: 27
+                  lineNumber: 95,
+                  columnNumber: 26
                 }, this);
               }
             })]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 67,
-            columnNumber: 17
+            lineNumber: 81,
+            columnNumber: 13
           }, this)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 65,
-          columnNumber: 13
+          lineNumber: 80,
+          columnNumber: 11
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 37,
+        lineNumber: 35,
         columnNumber: 9
       }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Grid"], {
         container: true,
@@ -392,7 +392,7 @@ function Content() {
           }
         }).map(val => {
           return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Box"], {
-            children: [" ", /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Grid"], {
+            children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Grid"], {
               item: true,
               item: true,
               xs: 12,
@@ -404,71 +404,71 @@ function Content() {
                       children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Box"], {
                         children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
                           width: 150,
-                          height: 150,
+                          height: 100,
                           src: val.pic,
                           alt: "pic"
                         }, void 0, false, {
                           fileName: _jsxFileName,
-                          lineNumber: 113,
-                          columnNumber: 30
+                          lineNumber: 146,
+                          columnNumber: 33
                         }, this)
                       }, void 0, false, {
                         fileName: _jsxFileName,
-                        lineNumber: 113,
-                        columnNumber: 25
+                        lineNumber: 145,
+                        columnNumber: 31
                       }, this)
                     }, void 0, false, {
                       fileName: _jsxFileName,
-                      lineNumber: 113,
-                      columnNumber: 21
+                      lineNumber: 144,
+                      columnNumber: 29
                     }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("td", {
                       children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Box"], {
                         children: val.text
                       }, void 0, false, {
                         fileName: _jsxFileName,
-                        lineNumber: 114,
-                        columnNumber: 25
+                        lineNumber: 155,
+                        columnNumber: 31
                       }, this)
                     }, void 0, false, {
                       fileName: _jsxFileName,
-                      lineNumber: 114,
-                      columnNumber: 21
+                      lineNumber: 154,
+                      columnNumber: 29
                     }, this)]
                   }, void 0, true, {
                     fileName: _jsxFileName,
-                    lineNumber: 111,
-                    columnNumber: 19
+                    lineNumber: 143,
+                    columnNumber: 27
                   }, this)
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 109,
-                  columnNumber: 19
+                  lineNumber: 142,
+                  columnNumber: 25
                 }, this)
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 107,
-                columnNumber: 19
+                lineNumber: 141,
+                columnNumber: 23
               }, this)
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 106,
-              columnNumber: 15
-            }, this)]
-          }, void 0, true, {
+              lineNumber: 140,
+              columnNumber: 21
+            }, this)
+          }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 102,
-            columnNumber: 21
+            lineNumber: 138,
+            columnNumber: 17
           }, this);
         })
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 79,
+        lineNumber: 102,
         columnNumber: 9
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 36,
-      columnNumber: 9
+      lineNumber: 34,
+      columnNumber: 7
     }, this)
   }, void 0, false);
 }
@@ -576,14 +576,14 @@ __webpack_require__.$Refresh$.setup(module.i);
 
 
 /* harmony default export */ __webpack_exports__["default"] = (styled_components__WEBPACK_IMPORTED_MODULE_0__["default"].div`
-display: flex;
-justify-content: center;
-align-items: center;
-height: 250px;
-width: 100%;
-color: #fff;
-margin: 0 15px;
-font-size: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 100%;
+  color: #fff;
+  margin: 0 15px;
+  font-size: 5px;
 `);
 
 const currentExports = __react_refresh_utils__.getModuleExports(module.i);
@@ -674,22 +674,20 @@ if (true) {
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ "./node_modules/bootstrap/dist/css/bootstrap.min.css");
-/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.css */ "./src/index.css");
-/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core */ "./node_modules/@material-ui/core/esm/index.js");
-/* harmony import */ var fontsource_roboto__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! fontsource-roboto */ "./node_modules/fontsource-roboto/index.css");
-/* harmony import */ var fontsource_roboto__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(fontsource_roboto__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core/styles */ "./node_modules/@material-ui/core/esm/styles/index.js");
-/* harmony import */ var react_elastic_carousel__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-elastic-carousel */ "./node_modules/react-elastic-carousel/dist/index.es.js");
-/* harmony import */ var _Item__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./Item */ "./src/Item.js");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.css */ "./src/index.css");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/core */ "./node_modules/@material-ui/core/esm/index.js");
+/* harmony import */ var fontsource_roboto__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! fontsource-roboto */ "./node_modules/fontsource-roboto/index.css");
+/* harmony import */ var fontsource_roboto__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(fontsource_roboto__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/styles */ "./node_modules/@material-ui/core/esm/styles/index.js");
+/* harmony import */ var react_elastic_carousel__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-elastic-carousel */ "./node_modules/react-elastic-carousel/dist/index.es.js");
+/* harmony import */ var _Item__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./Item */ "./src/Item.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__);
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 __webpack_require__.$Refresh$.setup(module.i);
 
-var _jsxFileName = "C:\\Users\\seppa\\Desktop\\1\\src\\MyCarousel.js",
+var _jsxFileName = "C:\\Users\\seppa\\FE test\\src\\MyCarousel.js",
     _s = __webpack_require__.$Refresh$.signature();
 
 
@@ -700,8 +698,7 @@ var _jsxFileName = "C:\\Users\\seppa\\Desktop\\1\\src\\MyCarousel.js",
 
 
 
-
-const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_5__["makeStyles"])(theme => ({
+const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_4__["makeStyles"])(theme => ({
   root: {
     flexGrow: 1
   },
@@ -711,7 +708,7 @@ const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_5__["
     margin: theme.spacing(2)
   },
   button: {
-    display: 'block',
+    display: "block",
     marginTop: theme.spacing(2)
   },
   mainView: {
@@ -719,7 +716,7 @@ const useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_5__["
     padding: theme.spacing(8)
   },
   button: {
-    display: 'block',
+    display: "block",
     marginTop: theme.spacing(2)
   },
   formControl: {
@@ -745,189 +742,190 @@ function MyCarousel() {
   _s();
 
   const Classes = useStyles();
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_3__["Container"], {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_material_ui_core__WEBPACK_IMPORTED_MODULE_2__["Container"], {
     class: Classes.carouselView,
-    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(react_elastic_carousel__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(react_elastic_carousel__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      pagination: false,
       breakPoints: breakPoints,
       enableAutoPlay: true,
-      autoPlaySpeed: 3000,
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+      autoPlaySpeed: 5000,
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
+          className: "d-block w-100",
+          src: "https://source.unsplash.com/random",
+          alt: "pic"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 60,
+          columnNumber: 11
+        }, this)
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 59,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 68,
-          columnNumber: 25
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 68,
-        columnNumber: 19
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 67,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 74,
-          columnNumber: 25
+          lineNumber: 76,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 74,
-        columnNumber: 19
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 75,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 80,
-          columnNumber: 25
+          lineNumber: 84,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 80,
-        columnNumber: 19
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
-          className: "d-block w-100",
-          src: "https://source.unsplash.com/random",
-          alt: "pic"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 86,
-          columnNumber: 25
-        }, this)
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 86,
-        columnNumber: 19
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 83,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 92,
-          columnNumber: 25
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 92,
-        columnNumber: 19
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 91,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 98,
-          columnNumber: 25
+          lineNumber: 100,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 98,
-        columnNumber: 19
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 99,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 104,
-          columnNumber: 21
+          lineNumber: 108,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 104,
-        columnNumber: 15
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 107,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 109,
-          columnNumber: 21
-        }, this)
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 109,
-        columnNumber: 15
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
-          className: "d-block w-100",
-          src: "https://source.unsplash.com/random",
-          alt: "pic"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 114,
-          columnNumber: 21
+          lineNumber: 115,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
         lineNumber: 114,
-        columnNumber: 15
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 119,
-          columnNumber: 21
+          lineNumber: 122,
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 119,
-        columnNumber: 15
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
-          className: "d-block w-100",
-          src: "https://source.unsplash.com/random",
-          alt: "pic"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 124,
-          columnNumber: 21
-        }, this)
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 124,
-        columnNumber: 15
-      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_7__["default"], {
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__["jsxDEV"])("img", {
+        lineNumber: 121,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
           className: "d-block w-100",
           src: "https://source.unsplash.com/random",
           alt: "pic"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 129,
-          columnNumber: 21
+          columnNumber: 11
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 129,
-        columnNumber: 15
+        lineNumber: 128,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
+          className: "d-block w-100",
+          src: "https://source.unsplash.com/random",
+          alt: "pic"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 136,
+          columnNumber: 11
+        }, this)
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 135,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])(_Item__WEBPACK_IMPORTED_MODULE_6__["default"], {
+        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__["jsxDEV"])("img", {
+          className: "d-block w-100",
+          src: "https://source.unsplash.com/random",
+          alt: "pic"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 143,
+          columnNumber: 11
+        }, this)
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 142,
+        columnNumber: 9
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 67,
+      lineNumber: 53,
       columnNumber: 7
     }, this)
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 65,
+    lineNumber: 52,
     columnNumber: 5
   }, this);
 }
@@ -1134,7 +1132,7 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 __webpack_require__.$Refresh$.setup(module.i);
 
-var _jsxFileName = "C:\\Users\\seppa\\Desktop\\1\\src\\index.js";
+var _jsxFileName = "C:\\Users\\seppa\\FE test\\src\\index.js";
 
 
 
@@ -1143,9 +1141,9 @@ var _jsxFileName = "C:\\Users\\seppa\\Desktop\\1\\src\\index.js";
 
 react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render( /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(_App__WEBPACK_IMPORTED_MODULE_3__["default"], {}, void 0, false, {
   fileName: _jsxFileName,
-  lineNumber: 8,
-  columnNumber: 5
-}, undefined), document.getElementById('root'));
+  lineNumber: 7,
+  columnNumber: 17
+}, undefined), document.getElementById("root"));
 Object(_reportWebVitals__WEBPACK_IMPORTED_MODULE_4__["default"])();
 
 const currentExports = __react_refresh_utils__.getModuleExports(module.i);
@@ -1352,10 +1350,10 @@ module.exports = JSON.parse("[{\"date\":\"2/14/2021\",\"pic\":\"https://source.u
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\seppa\Desktop\1\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
-__webpack_require__(/*! C:\Users\seppa\Desktop\1\node_modules\@pmmmwh\react-refresh-webpack-plugin\client\ReactRefreshEntry.js */"./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js");
-__webpack_require__(/*! C:\Users\seppa\Desktop\1\node_modules\react-dev-utils\webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
-module.exports = __webpack_require__(/*! C:\Users\seppa\Desktop\1\src\index.js */"./src/index.js");
+__webpack_require__(/*! C:\Users\seppa\FE test\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
+__webpack_require__(/*! C:\Users\seppa\FE test\node_modules\@pmmmwh\react-refresh-webpack-plugin\client\ReactRefreshEntry.js */"./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js");
+__webpack_require__(/*! C:\Users\seppa\FE test\node_modules\react-dev-utils\webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
+module.exports = __webpack_require__(/*! C:\Users\seppa\FE test\src\index.js */"./src/index.js");
 
 
 /***/ })
